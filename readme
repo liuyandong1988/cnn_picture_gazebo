@@ -1,0 +1,1 @@
+roslaunch 打开my_turtlebot.launch文件在gazebo场景下。（1）打开capture包，截取要识别的场景。（2）打开cnn_main.py脚本，加载识别图片的cnn网络。（3）打开turtlemove包，发布turtlebot的控制命令。

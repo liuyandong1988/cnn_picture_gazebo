@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/exbot/tensor/my_cnn_real/src/log_good/model.ckpt-5000"
+all_model_checkpoint_paths: "/home/exbot/tensor/my_cnn_real/src/log_good/model.ckpt-5000"
